@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Jason</id>
+    <version>0.2.1.0</version>
+    <title />
+    <authors>Mauro Servienti</authors>
+    <owners>Mauro Servienti</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Jason is an infrastructure framework to easly handle the "Command" part of CQRS on top of server technologies such as WCF and WebAPI</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>winrt Jason CQRS</tags>
+    <dependencies>
+      <dependency id="Radical" version="1.3.9.1" />
+    </dependencies>
+  </metadata>
+</package>
